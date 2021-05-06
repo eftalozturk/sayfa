@@ -1,0 +1,21 @@
+.content{
+    display: flex;
+    width: 1400px;
+    height: 219.1px;
+}
+.content-1{
+    display: flex;
+}
+.article{
+    color: #b5b5b5;
+    font-size: 12px;
+    line-height: 1.67;
+    letter-spacing: 2px;
+}
+.logo{
+    width: 36px;
+    height: 36px;
+}
+.logo-article{
+    display: flex;
+}
